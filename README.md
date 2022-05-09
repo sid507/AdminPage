@@ -5,4 +5,4 @@
 <img src="https://img.shields.io/badge/-TailWindCSS-blue?style=for-the-badge&logo=tailwindCSS"></img>
 <img src="https://img.shields.io/badge/-ReactJS-blue?style=for-the-badge&logo=react"></img>
 
-Admin Page to manage the addition of society
+Admin Page to manage the society
